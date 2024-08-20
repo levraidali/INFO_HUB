@@ -115,8 +115,9 @@
     <section>
         <p>In today's fast-paced world, keeping track of important information can be challenging.</p>
         <p>MemoKeep is a revolutionary website designed to help you store and organize all the crucial details you need to remember.</p>
+        <p align="center">this website is created by el ostoura darhi darhewi </p>
     </section>
-    <article>
+    <article align="center">
         <form action="info.php" method="post" onsubmit="controle()">
             <fieldset>
                 <h2>Save Your Information</h2>
