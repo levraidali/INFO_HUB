@@ -114,8 +114,8 @@
     </header>
     <section>
         <p>In today's fast-paced world, keeping track of important information can be challenging.</p>
-        <p>MemoKeep is a revolutionary website designed to help you store and organize all the crucial details you need to remember.</p>
-        <p align="center">this website is created by el ostoura darhi darhewi </p>
+        <p>INFO_HUB is a revolutionary website designed to help you store and organize all the crucial details you need to remember.</p>
+        <p>this website is created by el ostoura darhi darhewi </p>
     </section>
     <article align="center">
         <form action="info.php" method="post" onsubmit="controle()">
